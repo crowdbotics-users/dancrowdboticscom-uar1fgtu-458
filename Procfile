@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT dancrowdboticscom_uar1fgtu_458.wsgi:application
